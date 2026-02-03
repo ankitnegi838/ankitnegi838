@@ -39,12 +39,6 @@ const ankitNegi = {
     deployment: ["Netlify", "Render", "Hostinger", "WordPress"]
   },
   
-  currentlyWorking: [
-    "Student Management System @ Samoon Foundation",
-    "Frontend Development @ Nimokey",
-    "Full-Stack Projects @ Nova Nectar Services"
-  ],
-  
   learning: ["Advanced React Patterns", "Full-Stack Development", "System Design"],
   interests: ["UI/UX Design", "Web Animations", "Performance Optimization"],
   
@@ -59,13 +53,6 @@ const ankitNegi = {
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> What I'm Up To
 
-- 🔭 Currently working on **Student Management System & Educational Platforms**
-- 🌱 Learning **Full-Stack Development, Advanced React & API Integration**
-- 👨‍💻 All my projects are available at **[Portfolio](https://ashishpanwarportfolio.netlify.app/)**
-- 👯 Looking to collaborate on **React & Frontend Projects**
-- 💬 Ask me about **React.js, Tailwind CSS, UI/UX, PHP & Web Development**
-- 📫 Reach me at **anegi3691@gmail.com**
-- ⚡ Fun fact: **I debug faster with music on 🎵**
 
 <br clear="both">
 
@@ -113,7 +100,7 @@ const ankitNegi = {
 <div align="">
 
 ```yaml
-🚀 Full Stack Web Developer / Data Analyst Intern  
+🚀 Full Stack Web Developer 
 **Nimokey** | *6 Months Internship*  
 - Developing reusable and scalable UI components using **React.js** & **JavaScript**  
 - Integrating **REST APIs** and managing dynamic application data  
@@ -157,11 +144,7 @@ const ankitNegi = {
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
-<a href="https://www.instagram.com/ashish_panwar06/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-<a href="https://github.com/Ashishpanwar0" target="_blank">
+<a href="https://github.com/ankitnegi838" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
