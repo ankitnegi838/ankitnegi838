@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ashish%20Panwar&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20React%20Enthusiast%20|%20Building%20Digital%20Experiences&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ankit%20Negi&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20|%20Data%20Analyst%20|%20Building%20Digital%20Experiences&descAlignY=55&descAlign=50" width="100%"/>
 
 </div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Ashish+Panwar;Frontend+Developer+from+Rishikesh;Passionate+about+React+%26+Modern+Web;Transforming+Ideas+into+Reality;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Ankit+Negi;Full+Stack+Web+Developer;Data+Analyst;Transforming+Ideas+into+Reality;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
 
 </div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ashishpanwar-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ashupanwar5684@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:anegi3691@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://ashishpanwarportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://www.instagram.com/ashish_panwar06/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://github.com/Ashishpanwar0"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -25,10 +25,10 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
 
 ```javascript
-const ashishPanwar = {
-  name: "Ashish Panwar",
+const ankitNegi = {
+  name: "Ankit Negi",
   location: "Rishikesh, Dehradun, Uttarakhand 🏔️",
-  role: "Frontend Developer",
+  role: "Full Stack Web Developer / Data Analyst",
   currentStatus: "Building Scalable Web Applications",
   
   languages: ["JavaScript", "PHP", "HTML5", "CSS3"],
@@ -64,7 +64,7 @@ const ashishPanwar = {
 - 👨‍💻 All my projects are available at **[Portfolio](https://ashishpanwarportfolio.netlify.app/)**
 - 👯 Looking to collaborate on **React & Frontend Projects**
 - 💬 Ask me about **React.js, Tailwind CSS, UI/UX, PHP & Web Development**
-- 📫 Reach me at **ashupanwar5684@gmail.com**
+- 📫 Reach me at **anegi3691@gmail.com**
 - ⚡ Fun fact: **I debug faster with music on 🎵**
 
 <br clear="both">
@@ -108,116 +108,16 @@ const ashishPanwar = {
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">🎓 Student Management System</h3>
-<div align="center">  
-<a href="https://www.samoonskills.org/sms/" target="_blank">
-<img src="https://img.shields.io/badge/View_Live-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Project"/>
-</a>
-</div>
-<p align="center">
-Complete educational platform with student tracking, attendance management, fee collection, and performance analytics for NGO operations
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
-</p>
-</td>
-
-<td width="50%">
-<h3 align="center">🌐 Education Platform</h3>
-<div align="center">  
-<a href="https://samoonsav.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/View_Live-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Project"/>
-</a>
-</div>
-<p align="center">
-Modern responsive education website with focus on UI/UX design, component architecture, and performance optimization
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
-</p>
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-<h3 align="center">💼 Portfolio Website</h3>
-<div align="center">  
-<a href="https://ashishpanwarportfolio.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/View_Portfolio-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Portfolio"/>
-</a>
-</div>
-<p align="center">
-Personal portfolio showcasing projects with smooth animations, modern design, and fully responsive layout
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
-</p>
-</td>
-
-<td width="50%">
-<h3 align="center">🏫 Computer Guru Institute</h3>
-<div align="center">  
-<a href="https://demo.computerguru.co.in/" target="_blank">
-<img src="https://img.shields.io/badge/View_Demo-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Demo"/>
-</a>
-</div>
-<p align="center">
-Full-stack training institute website with frontend UI and integrated backend APIs for course management
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-</p>
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
----
-
 ## 💼 Professional Experience
 
 <div align="">
 
 ```yaml
-🚀 Frontend Developer Intern  
-**Nimokey** | *2024 – Present*  
+🚀 Full Stack Web Developer / Data Analyst Intern  
+**Nimokey** | *6 Months Internship*  
 - Developing reusable and scalable UI components using **React.js** & **JavaScript**  
 - Integrating **REST APIs** and managing dynamic application data  
 - Enhancing application **performance, responsiveness, and user experience**
-
----
-
-🏢 Office Assistant & Web Support  
-**Samoon Foundation** | *2024 – Present*  
-- Managing and updating the organization’s **official website**  
-- Working on a **Student Management System** (data handling, reports, records)  
-- Supporting **digital initiatives** and daily administrative operations
-
----
-
-🔧 Full-Stack Developer Intern  
-**Nova Nectar Services** | *Apr 2025 – Jun 2025*  
-- Developed **full-stack web applications** using modern technologies  
-- Worked in an **Agile development environment** with team collaboration  
-- Designed and integrated **APIs** for seamless frontend–backend communication
 ```
 
 </div>
@@ -230,11 +130,12 @@ Full-stack training institute website with frontend UI and integrated backend AP
 
 | 📚 Degree/Certification | 🏛️ Institution | 📅 Year |
 |------------------------|----------------|---------|
-| Bachelor of Arts | Uttarakhand Open University | 2021 - 2024 |
-| Diploma in Information Technology | Uttarakhand Open University | 2025 - 2026 |
-| Diploma in Web Development | Computer Guru Training Institute | 2024 - 2025 |
-| SOAR – AI to Aspire 4 | HCL Technologies (NCVET) | 2025 |
-| SOAR – AI to Aspire 4 | Microsoft Technologies (NCVET) | 2025 |
+| Bachelor of Commerce (BCom) | - | 2022 - 2025 |
+| Bachelor of Computer Applications (BCA) | - | 2023 - 2026 |
+| Diploma in ADCA | - | - |
+| Diploma in Front Office | - | - |
+| Diploma in Full Stack Web Developer | - | - |
+| Diploma in Data Analyst | - | - |
 
 </div>
 
@@ -248,7 +149,7 @@ Full-stack training institute website with frontend UI and integrated backend AP
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:ashupanwar5684@gmail.com">
+<a href="mailto:anegi3691@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
@@ -284,7 +185,7 @@ Full-stack training institute website with frontend UI and integrated backend AP
 
 ### ⭐ If you like my work, consider giving a star!
 
-### Made with 💙 by [Ashish Panwar](https://github.com/Ashishpanwar0)
+### Made with 💙 by [Ankit Negi](https://github.com/Ashishpanwar0)
 
 </div>
 
